@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536804643 source:/home/da9ni5el/Escritorio/EDD/Tareas_Lab/ABB_Versionamiento/main.c
+	<stdio.h>
+	<stdlib.h>
+	"recurso.h"
+
+1536804057 /home/da9ni5el/Escritorio/EDD/Tareas_Lab/ABB_Versionamiento/recurso.h
+
